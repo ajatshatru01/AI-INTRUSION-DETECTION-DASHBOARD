@@ -1,0 +1,20 @@
+{
+  "vt": {},
+  "whois": {},
+  "geoip": {
+    "192.168.29.118": {
+      "error": "The address 192.168.29.118 is not in the database."
+    },
+    "13.248.151.210": {
+      "country": "United States",
+      "city": null,
+      "asn": "AS16509 AMAZON-02"
+    },
+    "148.113.9.53": {
+      "country": "India",
+      "city": "Mumbai",
+      "asn": "AS16276 OVH SAS"
+    }
+  },
+  "tls": {}
+}
