@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+tensorflow
+pandas
+scikit-learn
+joblib
+pydantic-settings
+python-dotenv
+python-multipart
