@@ -46,7 +46,15 @@ The backend is built using **FastAPI**, and the frontend uses **React + Vite + T
 ### Dashboard Preview
 
 <p align="center">
-  <img src="Media/netguard2.jpeg" alt="Traffic Analysis" width="100%" />
+  <img src="media/netguard2.jpeg" alt="Traffic Analysis" width="100%" />
+</p>
+
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="media/netguardDemo.mp4">
+    <img src="media/demoThumbnail.jpeg" width="700" alt="Watch Demo Video"/>
+  </a>
 </p>
 
 ### System Capabilities
